@@ -19,7 +19,7 @@ unique_models = df['Brand_Model'].unique()
 unique_counties = df['County'].unique()
 
 # Define the input fields for the user to provide data
-st.title("Car Price Prediction App")
+st.title("Used Car Price Prediction App")
 
 st.write("Please provide the following details to predict the car price:")
 
