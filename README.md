@@ -6,6 +6,6 @@ The primary objective is to develop a machine learning model that accurately pre
 
 The dataset for this project was obtained through web scraping from the [Autouncle](https://www.autouncle.se/) platform.
 
-The web can be accessed [here](https://autoprice.streamlit.app/).
+The web app can be accessed [here](https://autoprice.streamlit.app/).
 
 
